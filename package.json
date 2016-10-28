@@ -1,0 +1,28 @@
+{
+  "name": "cancellation-token",
+  "version": "0.0.1",
+  "description": "JS Cancellation Tokens for composable async cleanup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/html-next/cancellation-token.git"
+  },
+  "keywords": [
+    "cancellation",
+    "async",
+    "abort",
+    "token",
+    "cancel",
+    "task",
+    "composable"
+  ],
+  "author": "Chris Thoburn (@runspired)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/html-next/cancellation-token/issues"
+  },
+  "homepage": "https://github.com/html-next/cancellation-token#readme"
+}
