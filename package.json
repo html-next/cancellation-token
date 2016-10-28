@@ -1,6 +1,6 @@
 {
   "name": "cancellation-token",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "JS Cancellation Tokens for composable async cleanup",
   "main": "index.js",
   "scripts": {
