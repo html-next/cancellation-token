@@ -1,5 +1,15 @@
 # Cancellation Token
 
+ES2015 JS Cancellation Tokens for composable async cleanup
+
+## Installation
+
+```cli
+yarn add cancellation-token
+```
+
+## About
+
 Tokens are extremely lightweight and easy to grok, their power lies in
 their composability. The entire implementation is this:
 
