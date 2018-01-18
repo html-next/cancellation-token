@@ -1,5 +1,7 @@
 # Cancellation Token
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/html-next/cancellation-token.svg)](https://greenkeeper.io/)
+
 ES2015 JS Cancellation Tokens for composable async cleanup
 
 ## Installation
